@@ -14,3 +14,24 @@ Alt text can be challenging to audit, edit and/or update in existing websites. T
   <li><a href="https://chrome.google.com/webstore/category/ext/22-accessibility?hl=en" target="_blank">Accessibility Extensions</a></li>
 <li>Abi and I audited ITP websites to check if they were compliant with NYU Accessibility standards our first semester at ITP</li>
 </ul>
+
+<h4>REFERENCES</h4>
+<ul>
+<li><a target="_blank" href="https://chrome.google.com/webstore/detail/auto-alt-text/lgmkhmedpaidhgonghfhijjlgaballje?hl=en">Auto Alt Text</a> - Need to click on the image before alt text appears</li>
+<li><a target="_blank" href="https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh?hl=en-US">Wave Evaluation Tool</a> - Evaluate web accessibility within the Chrome browser</li>
+<li><a target="_blank" href="https://cloudinary.com/blog/making_media_accessible_how_to_automatically_generate_alt_text_for_images">Cloudinary Add-ons</a> - Cloudinary takes care of your entire image management pipeline. With Cloudinary Add-ons, you can enhance your images even further with powerful functionality</li>
+<li><a target="_blank" href="http://assets20.sigaccess.org/">ACM SIGACCESS Conference on Computers and Accessibility</a></li>
+<li><a target="_blank" href="https://dl.acm.org/citation.cfm?id=2998364">Automatic Alt-text: Computer-generated Image Descriptions for Blind Users on a Social Network Service </a>- Designed and deployed automatic alt-text (AAT), a system that applies computer vision technology to identify faces, objects, and themes from photos to generate photo alt-text for screen reader users on Facebook</li>
+<li><a target="_blank" href="https://twitter.com/CatchTheseWords/status/1195742305761644544">Emojis and screenreaders - &ldquo;This is social media when you are blind.&rdquo;</a></li>
+</ul>
+
+<h4>AUDIENCE</h4>
+<ul>
+  <li>People who utilize a screenreader to access alt text</li>
+  <li>People who need update alt text retroactively to comply with digital accessibility standards</li>
+</ul>
+
+
+
+
+Thank you Yining Shi, Lauren Race, Ellen Nickels for helping us with this project։
