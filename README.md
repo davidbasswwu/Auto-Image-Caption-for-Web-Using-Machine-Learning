@@ -3,4 +3,14 @@
 
 by Hayk Mikayelyan, Abi Muñoz 
 
-Alt text can be challenging to audit, edit and/or update in existing websites. We wanted to build a tool that automated this process by using machine learning and image recognition. Digital accessibility is the practice of ensuring that websites, web applications, and digital content can be used by people with a diverse range of hearing, movement, sight or cognitive abilities. (NYU) Anyone creating digital content is responsible for creating content that complies. This tool builds upon the Web Content Accessibility Guidelines (WCAG) 2.0 Compliance by focusing on the category of Text Alternatives. Text Alternatives “provide text alternatives for any non-text content so that it can be converted into other forms that people need.”
+<h4>DESCRIPTION</h4>
+Digital accessibility ensures that websites, web apps, and digital content can be used by people with a diverse range of hearing, movement, sight or cognitive abilities.
+One way to promote digital accessibility is by using alt text (alternative text), which provides a text alternative to non-text content in web pages including images, media, etc.
+Alt text can be challenging to audit, edit and/or update in existing websites. This Chrome extension will automate this process by using machine learning and image detection. Dense captioning (DenseCap) is the model used in this project. How does DenseCap work? A computer detects objects in images and describes them using text.
+
+<h4>INSPIRATION</h4>
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=kS53y6GWm0w" target="_blank">Making Amazon Alexa respond to Sign Language using AI</a></li>
+  <li><a href="https://chrome.google.com/webstore/category/ext/22-accessibility?hl=en" target="_blank">Accessibility Extensions</a></li>
+<li>Hayk and I audited ITP websites to check if they were compliant with NYU Accessibility standards our first semester at ITP</li>
+</ul>
