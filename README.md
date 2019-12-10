@@ -1,5 +1,5 @@
 # Auto Image Caption for Web Using Machine Learning
-## Chrome Extension That Uses Image Recognition to Fix Missing Alt Text
+<h3> Chrome Extension That Uses Image Recognition to Fix Missing Alt Text</h3>
 
 by Hayk Mikayelyan, Abi Muñoz 
 
