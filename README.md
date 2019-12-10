@@ -1,24 +1,4 @@
-# This code is a fork from https://github.com/shahednasser/pikachu-everywhere by [shahednasser](https://github.com/shahednasser)
+Auto Image Caption for Web Using Machine Learning
+Chrome Extension That Uses Image Recognition to Fix Missing Alt Text
 
-## This is a chrome extension that uses Runway's Densecap model to replace all the images on a website with it's decription text.
-1. Run "Densecap" model in Runway at `localhost:8000`
-2. Download this code as a folder
-3. Enable developer mode in your chrome browser at chrome://extensions.
-4. Click "Load unpacked" and point to the root directory of the extension.
-
-## Demo video
-[![Alt text](https://img.youtube.com/vi/KPlGN23eyaE/0.jpg)](https://www.youtube.com/watch?v=KPlGN23eyaE)
-
-# Below is the original readme
-# Pikachu Everywhere
-This is the code for the extension in [this tutorial](https://blog.shahednasser.com/chrome-extension-tutorial-replace-images-in-any-website-with-pikachu/).
-
-# Install the extension
-1. Clone or download this repository.
-2. Enable developer mode in your chrome browser at chrome://extensions.
-3. Click "Load unpacked" and point to the root directory of the extension.
-
-# Credits
-1. Icons from [Free Icons PNG](www.freeiconspng.com)
-2. [Resize Image](https://resizeimage.net/) for resizing icons
-3. Pikachu images [API](https://some-random-api.ml/pikachuimg)
+Alt text can be challenging to audit, edit and/or update in existing websites. We wanted to build a tool that automated this process by using machine learning and image recognition. Digital accessibility is the practice of ensuring that websites, web applications, and digital content can be used by people with a diverse range of hearing, movement, sight or cognitive abilities. (NYU) Anyone creating digital content is responsible for creating content that complies. This tool builds upon the Web Content Accessibility Guidelines (WCAG) 2.0 Compliance by focusing on the category of Text Alternatives. Text Alternatives “provide text alternatives for any non-text content so that it can be converted into other forms that people need.”
