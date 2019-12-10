@@ -12,5 +12,5 @@ Alt text can be challenging to audit, edit and/or update in existing websites. T
 <ul>
   <li><a href="https://www.youtube.com/watch?v=kS53y6GWm0w" target="_blank">Making Amazon Alexa respond to Sign Language using AI</a></li>
   <li><a href="https://chrome.google.com/webstore/category/ext/22-accessibility?hl=en" target="_blank">Accessibility Extensions</a></li>
-<li>Hayk and I audited ITP websites to check if they were compliant with NYU Accessibility standards our first semester at ITP</li>
+<li>Abi and I audited ITP websites to check if they were compliant with NYU Accessibility standards our first semester at ITP</li>
 </ul>
