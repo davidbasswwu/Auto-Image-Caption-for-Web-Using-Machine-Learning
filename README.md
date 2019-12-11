@@ -35,7 +35,8 @@ Alt text can be challenging to audit, edit and/or update in existing websites. T
 <ul>
   <li>Make it a WP plugin</li>
   <li>Generate images based on labels</li>
-  <li>Use ML to provide a better ScreenReader experience</li>
+  <li>Use ML to provide a better screen reader experience</li>
+  <li>Retain model on web semantics</li>
 </ul>
 
 
