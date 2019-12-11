@@ -31,7 +31,12 @@ Alt text can be challenging to audit, edit and/or update in existing websites. T
   <li>People who need update alt text retroactively to comply with digital accessibility standards</li>
 </ul>
 
-
+<h4>NEXT STEPS</h4>
+<ul>
+  <li>Make it a WP plugin</li>
+  <li>Generate images based on labels</li>
+  <li>Use ML to provide a better ScreenReader experience</li>
+</ul>
 
 
 Thank you Yining Shi, Lauren Race, Ellen Nickels for helping us with this project։
