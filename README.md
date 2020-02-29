@@ -1,7 +1,5 @@
-# Auto Image Caption for Web Using Machine Learning
-<h3> Chrome Extension That Uses Image Recognition to Fix Missing Alt Text</h3>
-
-by Hayk Mikayelyan, Abi Muñoz 
+# AIC
+<h3> Chrome Extension that uses machine learning to auto caption images and fix nissing Alt Texts</h3>
 
 <h4>DESCRIPTION</h4>
 Digital accessibility ensures that websites, web apps, and digital content can be used by people with a diverse range of hearing, movement, sight or cognitive abilities.
@@ -50,4 +48,4 @@ Alt text can be challenging to audit, edit and/or update in existing websites. T
   <li>Run the extension.</li>
  </ol>
  
-Thank you Yining Shi, Lauren Race, Ellen Nickels for helping us with this project։
+by Hayk Mikayelyan, Abi Muñoz. Thank you Yining Shi, Lauren Race, Ellen Nickels for helping us with this project։
