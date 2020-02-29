@@ -43,11 +43,11 @@ Alt text can be challenging to audit, edit and/or update in existing websites. T
 <ol>
   <li>Download this repo.</li>
   <li>Archive it into a .zip file. </li>
-  <li>Go to chrome://extensions/</li>
+  <li>Go to chrome://extensions/ and enable the extension.</li>
   <li>Download <a href="https://runwayml.com/" target="_blank">Runway ML</a>.</li>
   <li>Run the DenseCap model.</li>
-  <li>Open any webpage</li>
-  <li>Run the extension</li>
+  <li>Open any webpage.</li>
+  <li>Run the extension.</li>
  </ol>
  
 Thank you Yining Shi, Lauren Race, Ellen Nickels for helping us with this project։
