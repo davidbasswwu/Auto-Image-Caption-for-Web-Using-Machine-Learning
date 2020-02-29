@@ -1,6 +1,8 @@
 # AIC
 <h3> A Chrome Extension that uses machine learning to auto caption images and fix missing Alt Texts</h3>
 
+![poster](http://haykmikayel.com/wp-content/uploads/2020/02/aic-5.jpg)
+
 <h4>DESCRIPTION</h4>
 Digital accessibility ensures that websites, web apps, and digital content can be used by people with a diverse range of hearing, movement, sight or cognitive abilities.
 One way to promote digital accessibility is by using alt text (alternative text), which provides a text alternative to non-text content in web pages including images, media, etc.
