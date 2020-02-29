@@ -1,5 +1,5 @@
 # AIC
-<h3> A Chrome Extension that uses machine learning to auto caption images and fix nissing Alt Texts</h3>
+<h3> A Chrome Extension that uses machine learning to auto caption images and fix missing Alt Texts</h3>
 
 <h4>DESCRIPTION</h4>
 Digital accessibility ensures that websites, web apps, and digital content can be used by people with a diverse range of hearing, movement, sight or cognitive abilities.
