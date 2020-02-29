@@ -39,5 +39,12 @@ Alt text can be challenging to audit, edit and/or update in existing websites. T
   <li>Retain model on web semantics</li>
 </ul>
 
+<h4>INSTRUCTIONS</h4>
+<ol>
+  <li>Download this repo.</li>
+ </ol>
+
+
+
 
 Thank you Yining Shi, Lauren Race, Ellen Nickels for helping us with this project։
