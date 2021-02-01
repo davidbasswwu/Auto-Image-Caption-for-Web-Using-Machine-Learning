@@ -1,4 +1,4 @@
-# Auto Image Caption for Web Using Machine Learning
+# Auto Image Caption for Web
 <h3> A Chrome Extension that uses machine learning to auto caption images and fix missing Alt Texts</h3>
 
 ![a11y-extension-cover](https://user-images.githubusercontent.com/3223085/106403661-c94bdd00-63fd-11eb-9c32-067df8e87fb4.jpg)
