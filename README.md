@@ -48,5 +48,5 @@ Alt text can be challenging to audit, edit and/or update in existing websites. T
   <li>Run the extension.</li>
  </ol>
  
-by Hayk Mikayelyan, Abi Muñoz. 
+by Hayk Mikayelyan, Abi Muñoz. <br/>
 <sub>Thank you Yining Shi, Lauren Race, Ellen Nickels for helping us with this project. </sub>
