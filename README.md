@@ -9,9 +9,7 @@ One way to promote digital accessibility is by using alt text (alternative text)
 Alt text can be challenging to audit, edit and/or update in existing websites. This Chrome extension will automate this process by using machine learning and image detection. IM2TXT captioning is the model used in this project.
 
 <h4>IM2TXT Model</h4>
-The image encoder is a deep convolutional neural network. This type of network is widely used for image tasks and is currently state-of-the-art for object recognition and detection. Our particular choice of network is the Inception v3 image recognition model pretrained on the ILSVRC-2012-CLS image classification dataset. The decoder is a long short-term memory (LSTM) network. This type of network is commonly used for sequence modeling tasks such as language modeling and machine translation. In the Show and Tell model, the LSTM network is trained as a language model conditioned on the image encoding. <a href="https://app.runwayml.com/models/runway/im2txt">More info</a>
-
-
+The image encoder is a deep convolutional neural network. This type of network is widely used for image tasks and is currently state-of-the-art for object recognition and detection. Our particular choice of network is the Inception v3 image recognition model pretrained on the ILSVRC-2012-CLS image classification dataset. The decoder is a long short-term memory (LSTM) network. This type of network is commonly used for sequence modeling tasks such as language modeling and machine translation. In the Show and Tell model, the LSTM network is trained as a language model conditioned on the image encoding.
 
 <h4>INSPIRATION</h4>
 <ul>
