@@ -7,7 +7,7 @@ document.head.appendChild(sc)
 
 chrome.runtime.onMessage.addListener(function(message, sender, senderResponse){
   if(message.msg === "image") {
-
+    /*
     const model = new rw.HostedModel({
       url: "https://densecap-3d0f4788.hosted-models.runwayml.cloud/v1/",
       token: "ilBOwS4QForv+z8y6iJ9ow==",
@@ -18,10 +18,22 @@ chrome.runtime.onMessage.addListener(function(message, sender, senderResponse){
       "max_detections": 5
     };
 
-    model.query(inputs).then(outputs => {
-      const { bboxes, classes, scores } = outputs;
+    */
 
-      senderResponse({data: classes, index: message.index});
+    const model = new rw.HostedModel({
+      url: "https://im2txt-8d90d5f5.hosted-models.runwayml.cloud/v1/",
+      token: "ap9LPH6PhKZt2PpH3IzW7Q==",
+    });
+    
+    const inputs = {
+      "image": message.image,
+    };
+
+
+    model.query(inputs).then(outputs => {
+      const { caption } = outputs;
+
+      senderResponse({data: caption, index: message.index});
       // use the outputs in your project
     });
 
