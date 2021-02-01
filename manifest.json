@@ -9,7 +9,8 @@
       "js":      ["assets/js/contentScript.js"]
   }],
   "permissions": [
-    "https://some-random-api.ml/*"
+    "https://some-random-api.ml/*",
+    "https://cdn.jsdelivr.net/*"
   ],
   "background": {
     "scripts": ["assets/js/background.js"],
@@ -20,5 +21,9 @@
     "32": "assets/images/icon32.png",
     "48": "assets/images/icon48.png",
     "128": "assets/images/icon128.png"
-  }
+  },
+
+
+  "content_security_policy": "script-src 'self' https://cdn.jsdelivr.net; object-src 'self'"
+
 }

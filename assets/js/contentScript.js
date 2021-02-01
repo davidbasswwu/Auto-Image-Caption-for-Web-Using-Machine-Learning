@@ -24,7 +24,11 @@ for(let i = 0; i < images.length; i++) {
     toDataURL(
       images[i].src,
       function(dataUrl) {
+
+        
         chrome.runtime.sendMessage({msg: 'image', index: i, image: dataUrl}, function({data, index}) {
+         
+          console.log(data);
           images[index].alt = data;
           images[index].setAttribute("style", "border: 10px #ff0000 solid;");
 
@@ -36,6 +40,7 @@ for(let i = 0; i < images.length; i++) {
           // let parent = images[index].parentNode;
           // parent.insertBefore(div, images[index]);
         });
+        
       },
       'image/jpeg'
     )
