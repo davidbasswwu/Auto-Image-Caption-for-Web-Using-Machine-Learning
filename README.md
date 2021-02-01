@@ -1,4 +1,4 @@
-# AIC
+# Auto Image Caption for Web Using Machine Learning
 <h3> A Chrome Extension that uses machine learning to auto caption images and fix missing Alt Texts</h3>
 
 ![a11y-extension-cover](https://user-images.githubusercontent.com/3223085/106403661-c94bdd00-63fd-11eb-9c32-067df8e87fb4.jpg)
@@ -44,8 +44,6 @@ Alt text can be challenging to audit, edit and/or update in existing websites. T
   <li>Download this repo.</li>
   <li>Archive it into a .zip file. </li>
   <li>Go to chrome://extensions/ and enable the extension.</li>
-  <li>Download <a href="https://runwayml.com/" target="_blank">Runway ML</a>.</li>
-  <li>Run the DenseCap model.</li>
   <li>Open any webpage.</li>
   <li>Run the extension.</li>
  </ol>
