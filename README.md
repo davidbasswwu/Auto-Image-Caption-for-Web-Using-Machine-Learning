@@ -1,12 +1,15 @@
-# AIC
+# Auto Image Caption for Web
 <h3> A Chrome Extension that uses machine learning to auto caption images and fix missing Alt Texts</h3>
 
-![poster](http://haykmikayel.com/wp-content/uploads/2020/02/aic-5.jpg)
+![a11y-extension-cover](https://user-images.githubusercontent.com/3223085/106404186-fac5a800-63ff-11eb-9001-813541efa62f.jpg)
 
 <h4>DESCRIPTION</h4>
 Digital accessibility ensures that websites, web apps, and digital content can be used by people with a diverse range of hearing, movement, sight or cognitive abilities.
 One way to promote digital accessibility is by using alt text (alternative text), which provides a text alternative to non-text content in web pages including images, media, etc.
-Alt text can be challenging to audit, edit and/or update in existing websites. This Chrome extension will automate this process by using machine learning and image detection. Dense captioning (DenseCap) is the model used in this project. How does DenseCap work? A computer detects objects in images and describes them using text.
+Alt text can be challenging to audit, edit and/or update in existing websites. This Chrome extension will automate this process by using machine learning and image detection. IM2TXT captioning is the model used in this project.
+
+<h4>IM2TXT Model</h4>
+The image encoder is a deep convolutional neural network. This type of network is widely used for image tasks and is currently state-of-the-art for object recognition and detection. Our particular choice of network is the Inception v3 image recognition model pretrained on the ILSVRC-2012-CLS image classification dataset. The decoder is a long short-term memory (LSTM) network. This type of network is commonly used for sequence modeling tasks such as language modeling and machine translation. In the Show and Tell model, the LSTM network is trained as a language model conditioned on the image encoding.
 
 <h4>INSPIRATION</h4>
 <ul>
@@ -44,10 +47,9 @@ Alt text can be challenging to audit, edit and/or update in existing websites. T
   <li>Download this repo.</li>
   <li>Archive it into a .zip file. </li>
   <li>Go to chrome://extensions/ and enable the extension.</li>
-  <li>Download <a href="https://runwayml.com/" target="_blank">Runway ML</a>.</li>
-  <li>Run the DenseCap model.</li>
   <li>Open any webpage.</li>
   <li>Run the extension.</li>
  </ol>
  
-by Hayk Mikayelyan, Abi Muñoz. Thank you Yining Shi, Lauren Race, Ellen Nickels for helping us with this project։
+by Hayk Mikayelyan, Abi Muñoz. <br/>
+<sub>Thank you Yining Shi, Lauren Race, Ellen Nickels for helping us with this project. </sub>
